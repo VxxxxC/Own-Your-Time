@@ -1,9 +1,9 @@
 // swift-tools-version:5.2
 import PackageDescription
-let packageName = "PROJECT_NAME" // <-- Change this to yours
+let packageName = "Own Your Time" // <-- Change this to yours
 let package = Package(
-  name: "",
-  // platforms: [.iOS("9.0")],
+  name: packageName,
+  platforms: [.iOS("17.0")],
   products: [
     .library(name: packageName, targets: [packageName])
   ],
