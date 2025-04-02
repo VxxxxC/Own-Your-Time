@@ -1,0 +1,4 @@
+module Own_Your_Time {
+    header "/Users/vxxxxc/Desktop/.Desktop/dev/project/xcode/Own Your Time/.build/arm64-apple-macosx/debug/Own_Your_Time.build/Own Your Time-Swift.h"
+    requires objc
+}
